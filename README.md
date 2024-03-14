@@ -23,6 +23,8 @@
 <div id="a3">
 </div>
 <script src="/merged.js?files=a1&files=a2&files=a3"></script>
-```。
+```
+由服务器来合并它们。
 
 这样可以做到简单的问题简单解决。
+
