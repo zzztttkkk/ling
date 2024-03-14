@@ -4,6 +4,7 @@
 
 例如，这样的html
 ``` html
+<script src="a0.js" sync></script>
 <div id="a1">
 </div>
 <script src="a1.js"></script>
